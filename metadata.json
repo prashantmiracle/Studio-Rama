@@ -1,0 +1,6 @@
+{
+  "name": "Studio Rama Pitch Deck",
+  "description": "Premium brand presentation and pitch deck for Studio Rama, Hyderabad's refined handloom luxury destination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
